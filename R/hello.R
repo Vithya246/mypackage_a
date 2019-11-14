@@ -17,6 +17,17 @@ hello <- function() {
   print("Hello, world!")
 }
 
-double <- fonction(x){
+double <- function(x){
   x*2
 }
+
+cadeau <- function(prenom) {
+  if (prenom == "Mathis") {
+    paste("Mon cher", prenom, "je vous offre une opération du genou effectuée par mes soins")
+  }
+  else {
+    paste("Mon/Ma cher(e)", prenom, "je vous offre une séance chez le coiffeur")
+  }
+}
+
+
