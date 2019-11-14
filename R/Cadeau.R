@@ -1,6 +1,6 @@
 #install.packages("devtools")
 library(devtools)
-devtools::install_github("mathiskeberling/mypackage_b")
+devtools::install_github("Vithya246/mypackage_a")
 
-mypackagea::cadeau("Laureen")
+mypackagea::cadeau("MPascucci")
 
