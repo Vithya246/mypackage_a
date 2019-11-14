@@ -1,7 +1,7 @@
 #install.packages("devtools")
 library(devtools)
 
-devtools::install_github("Vithya246/mypackage_a")
+devtools::install_github("mathiskeberling/mypackage_b")
 
 
-mypackagea::cadeau("MPascucci")
+mypackageb::cadeau("Laureen")
