@@ -22,8 +22,8 @@ double <- function(x){
 }
 
 cadeau <- function(prenom) {
-  if (prenom == "Mathis") {
-    paste("Mon cher", prenom, "je vous offre une opération du genou effectuée par mes soins")
+  if (prenom == "MPascucci") {
+    paste("Mon cher", prenom, "je vous offre un sapin de noel :)")
   }
   else {
     paste("Mon/Ma cher(e)", prenom, "je vous offre une séance chez le coiffeur")
