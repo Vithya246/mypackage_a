@@ -13,19 +13,13 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello <- function() {
-  print("Hello, world!")
-}
-
-double <- function(x){
-  x*2
-}
 
 cadeau <- function(prenom) {
   if (prenom == "MPascucci") {
     paste("Mon cher", prenom, "je vous offre un sapin de noel :)")
   }
 }
+
 
 
 
