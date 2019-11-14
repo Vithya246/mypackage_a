@@ -25,9 +25,6 @@ cadeau <- function(prenom) {
   if (prenom == "MPascucci") {
     paste("Mon cher", prenom, "je vous offre un sapin de noel :)")
   }
-  else {
-    paste("Mon/Ma cher(e)", prenom, "je vous offre une séance chez le coiffeur")
-  }
 }
 
 
